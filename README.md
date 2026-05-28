@@ -342,6 +342,9 @@ curl -X POST http://localhost:5000/api/appointments \
 **Gedion Fetene**
 Full-Stack Developer
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gedion48)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gedion-fetene-20a0012a5/)
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
