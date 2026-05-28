@@ -353,6 +353,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-Built by **Gedion Fetene**
+<div align="center">
+
+Built with ❤️ by **Gedion Fetene** as a technical assessment submission
+
+⭐ If you found this project useful, please consider giving it a star!
+
+</div>
 
 </div>
