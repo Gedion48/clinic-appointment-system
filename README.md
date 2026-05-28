@@ -15,7 +15,7 @@
 **A production-quality full-stack web application built as a technical assessment submission.**
 Clean architecture · JWT Authentication · Responsive UI · TypeScript throughout
 
-[Live Demo](#) · [Report Bug](https://github.com/Gedion48/clinic-appointment-system/issues) · [Request Feature](https://github.com/Gedion48/clinic-appointment-system/issues)
+
 
 </div>
 
